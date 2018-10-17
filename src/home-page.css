@@ -2,3 +2,56 @@ main {
     width: 100%;
     height: 100%;
 }
+
+h1 {
+    font-family: comfortaa;
+    color: #30b3e9;
+}
+
+.main-content{
+    position: relative;
+    top: 100px;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.title-search-form {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.title-poster {
+    
+}
+
+.titles {
+    position: relative;
+    display: inline-block;
+    padding: 20px;
+}
+
+.no-results {
+    position: relative;
+    color: #30b3e9;
+    text-align: center;
+    font-family: comfortaa;
+    font-size: 30px;
+
+}
+
+.submit-info-button {
+    margin: 10px;
+}
+
+#title_query {
+    width: 300px;
+    border-radius: 5px;
+    font-family: comfortaa;
+    font-size: 20px;
+}
+.movie-link {
+    position: relative;
+}
